@@ -159,6 +159,8 @@ body {
 .event .recommended {
   font-weight: 200;
   font-size: 12px;
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .event .lecturer_and_title {
@@ -212,6 +214,7 @@ body {
 .abstract .title_sponsored {
   font-size: 18px;
   font-weight: 600;
+  text-decoration: underline;
 }
 
 .abstract .title {
@@ -223,6 +226,7 @@ body {
   font-weight: 200;
   font-size: 14px;
   padding-bottom: 1mm;
+  font-style: italic;
 }
 
 .abstract .lecturer {
